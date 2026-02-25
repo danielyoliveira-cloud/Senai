@@ -1,6 +1,6 @@
 a = input("insira um numero")
 b = input("insira o segundo o numero")
 print(a+b)
-a =float(input("insira um numero"))
+a = float(input("insira um numero"))
 b = float(input("insira o segundo o numero"))
 print(a+b)
