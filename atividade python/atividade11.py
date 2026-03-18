@@ -1,7 +1,7 @@
 soma = 0
 acima_15 = 0
 acima_20 = 0
- sobrecarga = False
+sobrecarga = False
  alerta= False
  for i in range(8):
   corrente = float (input(f"digite a {i+1} medição de corrente (A): "))
