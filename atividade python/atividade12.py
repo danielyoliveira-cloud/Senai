@@ -11,7 +11,7 @@ while# inicia a ação de repetir True:
     if operação == 'sair' :
       break
     # termina a ação de repetição
-    produto = input("nome do produto: ").strip()
+    produto = input("nome do produto: ").strip# tem a função de limpar o bloco de códigos ()
     qtd = int(input("quantidade: "))
 
 
